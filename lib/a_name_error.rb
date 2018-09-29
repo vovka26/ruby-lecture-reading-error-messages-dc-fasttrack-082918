@@ -1,3 +1,3 @@
 "hello world"
 
-hello_world.to_not raise_error
+hello_world.to_not
