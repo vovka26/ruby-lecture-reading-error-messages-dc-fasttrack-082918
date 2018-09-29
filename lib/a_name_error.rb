@@ -1,3 +1,3 @@
 "hello world"
 
-hello_world.rb
+hello_world.to_not raise_error
